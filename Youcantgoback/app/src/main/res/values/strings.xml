@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">You cant go back</string>
+    <string name="title">You can\'t go back</string>
+    <string name="buttonExitText">EXIT</string>
+    <string name="buttonTimerText">GO TO TIMER</string>
+    <string name="zero">00:00</string>
+    <string name="buttonStartText">start</string>
+    <string name="buttonPauseText">pause</string>
+    <string name="buttonResetText">reset</string>
+</resources>
